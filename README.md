@@ -1,4 +1,4 @@
-## Olá, eu sou O Pedro Henrique Alvarenga Herzog 👋
+## Olá, eu sou o Pedro Henrique Alvarenga Herzog 👋
 
 <!--
 **pedrohaherzog-2005/pedrohaherzog-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
